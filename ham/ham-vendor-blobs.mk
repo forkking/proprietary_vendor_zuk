@@ -44,9 +44,9 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/lib/libdrmtime.so:system/vendor/lib/libdrmtime.so \
     vendor/zuk/ham/proprietary/vendor/lib/librpmb.so:system/vendor/lib/librpmb.so \
     vendor/zuk/ham/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
-    vendor/zuk/ham/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
+    vendor/zuk/ham/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/zuk/ham/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
-    vendor/zuk/ham/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
+    vendor/zuk/ham/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/zuk/ham/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/zuk/ham/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/zuk/ham/proprietary/bin/loc_launcher:system/bin/loc_launcher \
