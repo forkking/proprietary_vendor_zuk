@@ -17,7 +17,7 @@
 ifeq ($(QCPATH),)
 PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/bin/busybox:system/bin/busybox \
-	vendor/zuk/ham/proprietary/bin/btnvtool:system/bin/btnvtool \
+    vendor/zuk/ham/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/zuk/ham/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/zuk/ham/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/zuk/ham/proprietary/bin/mpdecision:system/bin/mpdecision \
@@ -102,7 +102,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
     vendor/zuk/ham/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/zuk/ham/proprietary/bin/irsc_util:system/bin/irsc_util \
-    vendor/zuk/ham/proprietary/vendor/lib/libdataitems.so:system/vendor/lib/libdataitems.so \
     vendor/zuk/ham/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/zuk/ham/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/zuk/ham/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
