@@ -16,6 +16,7 @@
 
 PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
+    vendor/zuk/ham/proprietary/bin/busybox:system/bin/busybox \
     vendor/zuk/ham/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
     vendor/zuk/ham/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
     vendor/zuk/ham/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
