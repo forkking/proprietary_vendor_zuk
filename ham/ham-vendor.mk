@@ -114,7 +114,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/bin/diag_mdlog:system/bin/diag_mdlog \
     vendor/zuk/ham/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/zuk/ham/proprietary/bin/irsc_util:system/bin/irsc_util \
-    vendor/zuk/ham/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/zuk/ham/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/zuk/ham/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/zuk/ham/proprietary/bin/qseecomd:system/bin/qseecomd \
